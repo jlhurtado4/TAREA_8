@@ -308,7 +308,7 @@ potencia real y más potencia reactiva.
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=nudZJB-wQGk
 
 5. CONCLUSIONES
 
