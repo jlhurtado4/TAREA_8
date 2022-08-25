@@ -281,11 +281,30 @@ potencia real y más potencia reactiva.
 
 **EJERCICIOS CAPITULO 15**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-10.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-11.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-12.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-13.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/15-14.jpg)
 
 **EJERCICIOS CAPITULO 16**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/16-7.jpg)
 
 4. VIDEO
 
