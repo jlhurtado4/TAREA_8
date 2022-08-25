@@ -360,4 +360,4 @@ fuente.
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_8/blob/main/IMAGENES%20CAP%2015%20Y%2016/RubicasTarea.png)
